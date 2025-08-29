@@ -5,7 +5,6 @@ pipeline {
 
   tools {
     maven 'Maven3'
-    jdk "jdk8"
   }
 
   environment {
